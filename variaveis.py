@@ -1,0 +1,5 @@
+nome = input('Qual o seu nome?')
+idade = int(input('Qual sua idade?'))
+altura = int(input('Qual sua altura?'))
+peso = int(input('Qual seu peso?'))
+print('seu nome é ', nome,'voce tem ', idade,'anos, tem ', altura,'cm de altura e pesa ', peso, 'kg')
